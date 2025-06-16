@@ -26,7 +26,7 @@
 - 🧑‍💻 **Matheus Fernandes (aMathyzin)** | 17yo | 🇧🇷 Rio de Janeiro  
 - 💼 **Role**: Senior Fullstack Developer | UI/UX Lead | Automation & Cybersecurity Specialist  
 - 🏢 **Founder**: [aMathyzin.com](https://amathyzin.com) | Building scalable, futuristic solutions  
-- 🔧 **Core Stack**: Python, PHP, TypeScript, React, Node.js, TailwindCSS, PyQt6, Electron, Docker  
+- 🔧 **Core Stack**: Python, PHP, TypeScript, React, Node.js, TailwindCSS, PyQt6, Electron, PySide6, Ctypes, C# and many others  
 - 🎨 **Effects & Animations**: GSAP, tsParticles, AOS, Vanilla-Tilt, ScrollMagic  
 - 🎯 **Expertise**: Leading high-impact projects, crafting intuitive UI/UX, automating workflows, and securing systems  
 - 🌟 **Vision**: Merging code, design, and AI to create seamless, innovative experiences  
