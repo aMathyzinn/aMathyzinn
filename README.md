@@ -3,8 +3,8 @@
 <div align="center">
   <!-- Header Banner with Adjusted Width and Padding -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a192f,100:00d4ff&height=180&width=800§ion=header&text=aMathyzin&fontSize=60&fontColor=10FFD0&animation=fadeIn&textPadding=20" alt="Header Banner" />
-  <!-- Animated Typing SVG -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=10FFD0¢er=true&vCenter=true&width=700&lines=Matheus+Fernandes+%7C+Senior+Fullstack+Dev;UI%2FUX+Visionary+%7C+AI+%26+Automation+Expert;Building+the+Future+with+Code+and+Design" alt="Typing SVG" />
+  <!-- Updated Typing SVG -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=10FFD0¢er=true&vCenter=true&width=800&lines=Matheus+Fernandes+%7C+Senior+Fullstack+Dev;UI%2FUX+Visionary+%7C+AI+%26+Automation+Expert;Building+the+Future+with+Code+and+Design" alt="Typing SVG" />
 </div>
 
 <h1 align="center">🚀 <b>Crafting Next-Gen Solutions with Code, Design, and Innovation</b> 🚀</h1>
