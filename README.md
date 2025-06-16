@@ -8,7 +8,7 @@
 <h1 align="center">🚀 <b>Crafting Next-Gen Solutions with Code, Design, and Innovation</b> 🚀</h1>
 
 <div align="center" style="margin: 12px 0;">
-  <img src="https://skillicons.dev/icons?i=python,php,nodejs,react,typescript,tailwind,figma,linux,git,docker,mysql,threejs,gsap,aos,vanilla-tilt,scrollmagic" style="filter: drop-shadow(0 0 5px #10FFD0);" />
+  <img src="https://skillicons.dev/icons?i=python,php,nodejs,react,typescript,tailwind,figma,linux,git,docker,mysql,threejs,gsap,aos,vanilla-tilt,scrollmagic,csharp,cpp,java,androidstudio" style="filter: drop-shadow(0 0 5px #10FFD0);" />
 </div>
 
 <p align="center">
@@ -26,7 +26,7 @@
 - 🧑‍💻 **Matheus Fernandes (aMathyzin)** | 17yo | 🇧🇷 Rio de Janeiro  
 - 💼 **Role**: Senior Fullstack Developer | UI/UX Lead | Automation & Cybersecurity Specialist  
 - 🏢 **Founder**: [aMathyzin.com](https://amathyzin.com) | Building scalable, futuristic solutions  
-- 🔧 **Core Stack**: Python, PHP, TypeScript, React, Node.js, TailwindCSS, PyQt6, Electron, PySide6, Ctypes, C# and many others  
+- 🔧 **Core Stack**: Python, PHP, TypeScript, React, Node.js, TailwindCSS, PyQt6, Electron, Docker, C#, C++, Java, MySQL, Android Studio  
 - 🎨 **Effects & Animations**: GSAP, tsParticles, AOS, Vanilla-Tilt, ScrollMagic  
 - 🎯 **Expertise**: Leading high-impact projects, crafting intuitive UI/UX, automating workflows, and securing systems  
 - 🌟 **Vision**: Merging code, design, and AI to create seamless, innovative experiences  
@@ -39,9 +39,11 @@
     <img src="https://img.shields.io/badge/TypeScript-95%25-3178C6?style=flat-square&logo=typescript&logoColor=10FFD0" alt="TypeScript" />
     <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=10FFD0" alt="React" />
     <img src="https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=10FFD0" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/UI%2FUX-95%25-F24E1E?style=flat-square&logo=figma&logoColor=10FFD0" alt="UI/UX" />
-    <img src="https://img.shields.io/badge/Automation-100%25-23A455?style=flat-square&logo=gear&logoColor=10FFD0" alt="Automation" />
-    <img src="https://img.shields.io/badge/Cybersecurity-85%25-00BFFF?style=flat-square&logo=security&logoColor=10FFD0" alt="Cybersecurity" />
+    <img src="https://img.shields.io/badge/CSharp-85%25-239120?style=flat-square&logo=c-sharp&logoColor=10FFD0" alt="C#" />
+    <img src="https://img.shields.io/badge/Cpp-80%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=10FFD0" alt="C++" />
+    <img src="https://img.shields.io/badge/Java-80%25-007396?style=flat-square&logo=java&logoColor=10FFD0" alt="Java" />
+    <img src="https://img.shields.io/badge/MySQL-85%25-4479A1?style=flat-square&logo=mysql&logoColor=10FFD0" alt="MySQL" />
+    <img src="https://img.shields.io/badge/AndroidStudio-75%25-3DDC84?style=flat-square&logo=android&logoColor=10FFD0" alt="Android Studio" />
   </p>
 </details>
 
@@ -75,7 +77,7 @@
 ## 🧰 **Tech Arsenal & Plugins**
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,php,docker,vercel,netlify,mysql,redis,nginx,githubactions,cloudflare,linux,bash,powershell,gsap,threejs,scrollmagic,vanilla-tilt,aos,particles.js" style="filter: drop-shadow(0 0 5px #00D4FF);" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,php,docker,vercel,netlify,mysql,redis,nginx,githubactions,cloudflare,linux,bash,powershell,gsap,threejs,scrollmagic,vanilla-tilt,aos,particles.js,csharp,cpp,java,androidstudio" style="filter: drop-shadow(0 0 5px #00D4FF);" />
 </div>
 
 ---
