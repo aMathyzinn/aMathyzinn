@@ -13,7 +13,7 @@
 
 <p align="center">
   <a href="https://amathyzin.com" target="_blank"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Online-00D4FF?style=for-the-badge&logo=globe&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/aMathyzin" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/matheus-fernandes-41b89936b/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://discord.gg/amathyzin" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="https://github.com/aMathyzin" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-212121?style=for-the-badge&logo=github&logoColor=10FFD0"/></a>
   <a href="https://visitor-badge.laobi.icu/badge?page_id=aMathyzin.aMathyzin" target="_blank"><img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=aMathyzin.aMathyzin&color=00D4FF"/></a>
