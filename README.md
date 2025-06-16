@@ -1,19 +1,14 @@
 <!-- README.md - aMathyzin / Matheus Fernandes -->
 
 <div align="center">
-  <!-- Header Banner with Neon Cyberpunk Wave (added padding to avoid clipping) -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a192f,100:00d4ff&height=200&section=header&text=aMathyzin&fontSize=60&fontColor=10FFD0&animation=fadeIn&padding=20" alt="Header Banner" />
-  <!-- Lottie Animation Embed -->
-  <img src="https://assets10.lottiefiles.com/packages/lf20_xtfbknau.json" alt="Lottie Animation" style="width:200px; margin-top:-40px;" />
-  <!-- Animated Typing SVG (wider to prevent clipping) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=10FFD0&center=true&vCenter=true&width=900&lines=Matheus+Fernandes+%7C+Senior+Fullstack+Dev;UI%2FUX+Visionary+%7C+AI+%26+Automation+Expert;Building+the+Future+with+Code+and+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=10FFD0&center=true&vCenter=true&width=900&lines=Matheus+Fernandes+%7C+Senior+Fullstack+Dev;UI%2FUX+Visionary+%7C+AI%26Automation+Expert;Building+the+Future+with+Code+and+Design" alt="Typing SVG" />
 </div>
 
 <h1 align="center">🚀 <b>Crafting Next-Gen Solutions with Code, Design, and Innovation</b> 🚀</h1>
 
 <div align="center" style="margin: 12px 0;">
-  <!-- Tech Stack & Effects Icons with Neon Glow -->
-  <img src="https://skillicons.dev/icons?i=python,php,nodejs,react,typescript,tailwind,figma,linux,git,docker,mysql,threejs,gsap,lottie,aos" style="filter: drop-shadow(0 0 5px #10FFD0);" />
+  <img src="https://skillicons.dev/icons?i=python,php,nodejs,react,typescript,tailwind,figma,linux,git,docker,mysql,threejs,gsap,aos,vanilla-tilt,scrollmagic" style="filter: drop-shadow(0 0 5px #10FFD0);" />
 </div>
 
 <p align="center">
@@ -32,7 +27,7 @@
 - 💼 **Role**: Senior Fullstack Developer | UI/UX Lead | Automation & Cybersecurity Specialist  
 - 🏢 **Founder**: [aMathyzin.com](https://amathyzin.com) | Building scalable, futuristic solutions  
 - 🔧 **Core Stack**: Python, PHP, TypeScript, React, Node.js, TailwindCSS, PyQt6, Electron, Docker  
-- 🎨 **Effects & Animations**: GSAP, Lottie, tsParticles, AOS (Animate On Scroll), Vanilla-Tilt, ScrollMagic  
+- 🎨 **Effects & Animations**: GSAP, tsParticles, AOS (Animate On Scroll), Vanilla-Tilt, ScrollMagic  
 - 🎯 **Expertise**: Leading high-impact projects, crafting intuitive UI/UX, automating workflows, and securing systems  
 - 🌟 **Vision**: Merging code, design, and AI to create seamless, innovative experiences  
 
@@ -80,12 +75,8 @@
 ## 🧰 <b>Tech Arsenal & Plugins</b>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,figma,php,aws,docker,vercel,netlify,mysql,redis,nginx,githubactions,cloudflare,linux,bash,powershell,aos,lottie,gsap,threejs,scrollmagic,vanilla-tilt" style="filter: drop-shadow(0 0 5px #00D4FF);" />
+  <img src="https://skillicons.dev/icons?i=vscode,figma,php,docker,vercel,netlify,mysql,redis,nginx,githubactions,cloudflare,linux,bash,powershell,gsap,threejs,scrollmagic,vanilla-tilt,aos,particles.js" style="filter: drop-shadow(0 0 5px #00D4FF);" />
 </div>
-- **3D & Particles**: Three.js, tsParticles  
-- **Scroll & Hover**: AOS, ScrollMagic, Vanilla-Tilt  
-- **Animations**: GSAP, Lottie, CSS Keyframes  
-- **UI Kits**: TailwindCSS Plugins, FontAwesome, HeroIcons  
 
 ---
 
@@ -115,6 +106,5 @@
 > "Code is art. Design is intuition. Automation is freedom. Let's build something extraordinary."
 
 <div align="center">
-  <!-- Footer with Glitch Effect -->
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a192f,100:00d4ff&height=120&section=footer&animation=twinkle&padding=20" alt="Footer" />
 </div>
