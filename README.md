@@ -32,18 +32,24 @@
 - 🌟 **Vision**: Merging code, design, and AI to create seamless, innovative experiences  
 
 <details>
-  <summary>🛠️ **Skill Progression**</summary>
+  <summary>🛠️ <strong>Skill Progression & Mastery Levels</strong></summary>
   <p align="center">
-    <img src="https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=10FFD0" alt="Python" />
-    <img src="https://img.shields.io/badge/PHP-90%25-777BB4?style=flat-square&logo=php&logoColor=10FFD0" alt="PHP" />
-    <img src="https://img.shields.io/badge/TypeScript-95%25-3178C6?style=flat-square&logo=typescript&logoColor=10FFD0" alt="TypeScript" />
-    <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=10FFD0" alt="React" />
-    <img src="https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=10FFD0" alt="TailwindCSS" />
-    <img src="https://img.shields.io/badge/CSharp-85%25-239120?style=flat-square&logo=c-sharp&logoColor=10FFD0" alt="C#" />
-    <img src="https://img.shields.io/badge/Cpp-80%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=10FFD0" alt="C++" />
-    <img src="https://img.shields.io/badge/Java-80%25-007396?style=flat-square&logo=java&logoColor=10FFD0" alt="Java" />
-    <img src="https://img.shields.io/badge/MySQL-85%25-4479A1?style=flat-square&logo=mysql&logoColor=10FFD0" alt="MySQL" />
-    <img src="https://img.shields.io/badge/AndroidStudio-75%25-3DDC84?style=flat-square&logo=android&logoColor=10FFD0" alt="Android Studio" />
+    <br><strong>🔹 Expert</strong><br>
+    <img src="https://img.shields.io/badge/Python-100%25-3776AB?style=flat-square&logo=python&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/TypeScript-95%25-3178C6?style=flat-square&logo=typescript&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/React-90%25-61DAFB?style=flat-square&logo=react&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/TailwindCSS-90%25-38B2AC?style=flat-square&logo=tailwindcss&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/Node.js-90%25-339933?style=flat-square&logo=node.js&logoColor=10FFD0" />
+    <br><br><strong>🔸 Intermediate</strong><br>
+    <img src="https://img.shields.io/badge/Java-80%25-007396?style=flat-square&logo=java&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/CSharp-85%25-239120?style=flat-square&logo=c-sharp&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/MySQL-85%25-4479A1?style=flat-square&logo=mysql&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/PHP-75%25-777BB4?style=flat-square&logo=php&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/Android%20Studio-75%25-3DDC84?style=flat-square&logo=android&logoColor=10FFD0" />
+    <br><br><strong>🔻 Basics / Ongoing</strong><br>
+    <img src="https://img.shields.io/badge/C++-60%25-00599C?style=flat-square&logo=c%2B%2B&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/Electron-60%25-47848F?style=flat-square&logo=electron&logoColor=10FFD0" />
+    <img src="https://img.shields.io/badge/Docker-50%25-2496ED?style=flat-square&logo=docker&logoColor=10FFD0" />
   </p>
 </details>
 
@@ -68,10 +74,25 @@
 | **aMathyzin Chess**      | Chess engine powered by Minimax AI, difficulty scaling, and smart UI        | Python, HTML/CSS, JavaScript           | [Play Now](https://amathy-chess.vercel.app)                          |
 
 <details>
-  <summary>📊 **Project Impact**</summary>
-  - **RoBooster 2**: 10k+ downloads, 4.8/5 user rating, optimized for 5+ languages  
-  - **Mathy Intelligence**: 2k+ active users, 99.9% uptime, 50ms avg response time  
-  - **BatchClick**: 5k+ executions, 30% avg system performance boost  
+  <summary>📊 <strong>Project Impact</strong></summary>
+  
+  - 🎮 <strong>RoBooster 2</strong>:  
+    +10,000 downloads · 4.8★ user rating · Optimized for 5+ languages · Popular in Roblox communities
+
+  - 🧠 <strong>Mathy Intelligence</strong>:  
+    2,000+ monthly users · 99.9% uptime · <50ms response · 500+ AI queries processed/day
+
+  - ⚙️ <strong>BatchClick</strong>:  
+    5,000+ executions · 30% average system performance gain · Trusted by power users
+
+  - 🤖 <strong>Discord Sales Bot</strong>:  
+    3,000+ payments processados · Pix/MercadoPago fully automated · Usado em várias comunidades de vendas
+
+  - 🌐 <strong>Portfolio UI/UX</strong>:  
+    Destaque no Dev.to e ProductHunt · Elogiado pelo visual e experiência de usuário
+
+  - ♟️ <strong>aMathyzin Chess</strong>:  
+    500+ partidas jogadas · AI desafiante · Usado como referência em projetos de Xadrez AI
 </details>
 
 ---
