@@ -55,15 +55,17 @@
   <img src="https://img.shields.io/badge/RoBooster%202-Electron%20%26%20Node.js-00D4FF?style=flat-square&logo=electron&logoColor=white" alt="RoBooster 2" />
   <img src="https://img.shields.io/badge/Mathy%20Intelligence-AI%20Platform-004AAD?style=flat-square&logo=react&logoColor=10FFD0" alt="Mathy Intelligence" />
   <img src="https://img.shields.io/badge/BatchClick-Optimization-212121?style=flat-square&logo=windows&logoColor=10FFD0" alt="BatchClick" />
+  <img src="https://img.shields.io/badge/aMathyzin%20Chess-AI%20Chess%20Engine-10FFD0?style=flat-square&logo=python&logoColor=white" alt="aMathyzin Chess" />
 </p>
 
 | Project                  | Description                                                                 | Stack                                  | Link                                                                 |
 |--------------------------|-----------------------------------------------------------------------------|----------------------------------------|----------------------------------------------------------------------|
 | **RoBooster 2**          | Advanced Roblox optimizer with premium UI, real-time analytics, and automation | Electron, Node.js, TailwindCSS         | [Explore](https://amathyzin.com/downloads/arquivos/robooster2.html)  |
 | **Mathy Intelligence**   | Scalable AI platform with deep learning, web search, and dynamic UI         | React, Node.js, MySQL, Vite, PHP       | [Live](https://mathy-inteligence.xyz)                                |
-| **BatchClick**           | Windows optimization tool with advanced batch scripting and terminal UI     | Batch Script, Windows Shell            | [View](https://amathyzin.com)                                        |
-| **Discord Sales Bot**    | Automated sales bot with Pix/Mercado Pago integration and modern dashboard  | Node.js, Discord.js, TailwindCSS       | [GitHub](https://github.com/aMathyzin/bot-vendas)                    |
-| **Portfolio UI/UX**      | Interactive portfolio with GSAP animations, glassmorphism, 3D effects       | React, TailwindCSS, GSAP, Three.js     | [Live](https://amathyzin.com)                                        |
+| **BatchClick**           | Windows optimization tool with advanced batch scripting and terminal UI     | Batch Script, Windows Shell            | [View](https://amathyzin.com/downloads/arquivos/batchclick.html)     |
+| **Discord Sales Bot**    | Automated sales bot with Pix/Mercado Pago integration and modern dashboard  | Node.js, Discord.js, TailwindCSS       | [GitHub](https://github.com/aMathyzin/disabled-at-moment)            |
+| **Portfolio UI/UX**      | Interactive portfolio with GSAP animations, glassmorphism, 3D effects       | React, TailwindCSS, GSAP, Three.js     | [Live](https://amathyzin.xyz)                                        |
+| **aMathyzin Chess**      | Chess engine powered by Minimax AI, difficulty scaling, and smart UI        | Python, HTML/CSS, JavaScript           | [Play Now](https://amathy-chess.vercel.app)                          |
 
 <details>
   <summary>📊 **Project Impact**</summary>
