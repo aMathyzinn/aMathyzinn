@@ -2,7 +2,7 @@
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0a192f,100:00d4ff&height=200&section=header&text=aMathyzin&fontSize=60&fontColor=10FFD0&animation=fadeIn&padding=20" alt="Header Banner" />
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=10FFD0&center=true&vCenter=true&width=900&lines=Matheus+Fernandes+%7C+Senior+Fullstack+Dev;UI%2FUX+Visionary+%7C+AI%26Automation+Expert;Building+the+Future+with+Code+and+Design" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=4000&pause=1000&color=10FFD0&center=true&vCenter=true&width=900&lines=Matheus+Fernandes+%7C+Pleno+Fullstack+Dev;UI%2FUX+Visionary+%7C+AI%26Automation+Expert;Building+the+Future+with+Code+and+Design" alt="Typing SVG" />
 </div>
 
 <h1 align="center">🚀 <b>Crafting Next-Gen Solutions with Code, Design, and Innovation</b> 🚀</h1>
@@ -24,7 +24,7 @@
 ## 🌌 **About Me**
 
 - 🧑‍💻 **Matheus Fernandes (aMathyzin)** | 17yo | 🇧🇷 Rio de Janeiro  
-- 💼 **Role**: Senior Fullstack Developer | UI/UX Lead | Automation & Cybersecurity Specialist  
+- 💼 **Role**: Mid-level Fullstack Developer | UI/UX Lead | Automation & Cybersecurity Specialist  
 - 🏢 **Founder**: [aMathyzin.com](https://amathyzin.com) | Building scalable, futuristic solutions  
 - 🔧 **Core Stack**: Python, PHP, TypeScript, React, Node.js, TailwindCSS, PyQt6, Electron, Docker, C#, C++, Java, MySQL, Android Studio  
 - 🎨 **Effects & Animations**: GSAP, tsParticles, AOS, Vanilla-Tilt, ScrollMagic  
