@@ -140,42 +140,6 @@ E-commerce fictício focado em UX e componentização.
 
 ---
 
-## 📦 Outros projetos
-
-- **CRUD — Yzhy FPS** <sub>15/08/2025</sub>  
-  <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=vercel&logoColor=10FFD0"> 
-  <img src="https://img.shields.io/badge/Stack-Python%20%7C%20Flask%20%7C%20SQLite%20%7C%20Tailwind-0a192f?style=flat-square">  
-  Painel de gestão (criar/editar/suspender) com changelog e UI responsiva.
-
-- **aMathyzin Chess** <sub>2025</sub> — <a href="https://amathy-chess.vercel.app">Jogar agora</a>  
-  <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=chessdotcom&logoColor=10FFD0"> 
-  <img src="https://img.shields.io/badge/Stack-React%20%7C%20TS%20%7C%20Next%20%7C%20Socket.io-0a192f?style=flat-square">
-
-- **Conversor de Imagens** <sub>2025</sub>  
-  <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=next.js&logoColor=10FFD0"> 
-  <img src="https://img.shields.io/badge/Stack-Next%20%7C%20React%20%7C%20TypeScript-0a192f?style=flat-square">
-
-- **aMathyzin Launcher** <sub>2024</sub>  
-  <img src="https://img.shields.io/badge/Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0"> 
-  <img src="https://img.shields.io/badge/Stack-C%23%20%7C%20.NET%20%7C%20WPF%20%7C%20SQLite-0a192f?style=flat-square">
-
-- **Portfolio Interativo** <sub>2024</sub>  
-  <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=react&logoColor=10FFD0"> 
-  <img src="https://img.shields.io/badge/Stack-Next%20%7C%20Framer%20Motion%20%7C%20Tailwind-0a192f?style=flat-square">
-
-- **Site amathyzin.com.br** <sub>2023</sub> — <a href="https://amathyzin.com.br">Visitar</a>  
-  <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=php&logoColor=10FFD0"> 
-  <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JS%20%7C%20PHP%20%7C%20MySQL-0a192f?style=flat-square">
-
-- **Sistema de Gestão** <sub>2024</sub>  
-  <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=fastapi&logoColor=10FFD0">
-
-- **Bot Discord Multifuncional** <sub>2023</sub>  
-  <img src="https://img.shields.io/badge/Bot-2023-12233d?style=flat-square&logo=discord&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/M%C3%B3dulos-economia%2Fmodera%C3%A7%C3%A3o%2Fjogos-0a192f?style=flat-square">
-
----
-
 ## 🧰 Tech Map (agrupado)
 
 ### **Core**
