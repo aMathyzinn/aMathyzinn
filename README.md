@@ -184,6 +184,9 @@ E-commerce fictício focado em UX e componentização.
 <img src="https://img.shields.io/badge/Node.js-Automation%2FBots%2FAPIs-0a192f?style=flat-square&logo=node.js&logoColor=10FFD0">
 <img src="https://img.shields.io/badge/React%20%7C%20Next.js-Web%20Dev-0a192f?style=flat-square&logo=react&logoColor=10FFD0">
 <img src="https://img.shields.io/badge/Flutter%20%7C%20Dart-Mobile%20Apps-0a192f?style=flat-square&logo=flutter&logoColor=10FFD0">
+<img src="https://img.shields.io/badge/C++-Advanced-0a192f?style=flat-square&logo=c%2B%2B&logoColor=10FFD0">
+<img src="https://img.shields.io/badge/Rust-Advanced-0a192f?style=flat-square&logo=rust&logoColor=10FFD0">
+
 
 ---
 
