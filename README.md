@@ -219,7 +219,7 @@ E-commerce fictício focado em UX e componentização.
 ---
 
 ## 🤝 Contato
-**contato@amathyzin.com.br** · **Discord:** amathyzin
+**contato@amathyzin.com.br** · **Discord:** @amathyzin.
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=wave&height=110&color=0:00d4ff,100:0a192f&reversal=true&text=%F0%9F%9A%80%20Code%20%E2%80%A2%20Design%20%E2%80%A2%20Impacto%20%F0%9F%92%AB&fontColor=10FFD0&fontSize=22" />
