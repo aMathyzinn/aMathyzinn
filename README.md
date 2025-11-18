@@ -112,7 +112,7 @@ Plataforma de IA completa (front+back) com orquestração e UI dinâmica.
 <p>
   <img src="https://img.shields.io/badge/Categoria-Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0">
   <img src="https://img.shields.io/badge/Ano-2024-00d4ff?style=flat-square">
-  <a href="https://amathyzin.com/downloads/arquivos/robooster2.html"><img src="https://img.shields.io/badge/P%C3%A1gina-Ver-3b82f6?style=flat-square&logo=googlechrome&logoColor=fff"></a>
+  <a href="https://amathyzin.com.br/downloads/robooster2/"><img src="https://img.shields.io/badge/P%C3%A1gina-Ver-3b82f6?style=flat-square&logo=googlechrome&logoColor=fff"></a>
 </p>
 Otimizador com UI futurista + algoritmos de limpeza.
 <br/>
@@ -163,7 +163,7 @@ E-commerce fictício focado em UX e componentização.
   <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=react&logoColor=10FFD0"> 
   <img src="https://img.shields.io/badge/Stack-Next%20%7C%20Framer%20Motion%20%7C%20Tailwind-0a192f?style=flat-square">
 
-- **Site aMathyzin.com** <sub>2023</sub> — <a href="https://amathyzin.com">Visitar</a>  
+- **Site amathyzin.com.br** <sub>2023</sub> — <a href="https://amathyzin.com.br">Visitar</a>  
   <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=php&logoColor=10FFD0"> 
   <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JS%20%7C%20PHP%20%7C%20MySQL-0a192f?style=flat-square">
 
