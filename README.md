@@ -9,7 +9,7 @@
 
   <!-- CTAS -->
   <p>
-    <a href="mailto:contato@amathyzin.com.br"><img alt="E-mail" src="https://img.shields.io/badge/contato%40amathyzin.com-send-0b84ff?style=for-the-badge&logo=gmail&logoColor=fff"></a>
+    <a href="mailto:contato@amathyzin.com.br"><img alt="E-mail" src="https://img.shields.io/badge/contato%40amathyzin.com.br-send-0b84ff?style=for-the-badge&logo=gmail&logoColor=fff"></a>
     <a href="https://amathyzin.xyz"><img alt="Site / Portfólio" src="https://img.shields.io/badge/Portfolio-Online-00D4FF?style=for-the-badge&logo=vercel&logoColor=fff"></a>
     <a href="https://discord.gg/amathyzin"><img alt="Discord" src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=fff"></a>
     <a href="https://www.linkedin.com/in/matheus-fernandes-41b89936b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff"></a>
