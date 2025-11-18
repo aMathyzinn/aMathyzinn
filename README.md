@@ -46,16 +46,20 @@ UI/UX **sólido** + **engenharia full-stack** com foco em **produtos desktop (Qt
 ### Infinity Panel  
 <p>
   <img src="https://img.shields.io/badge/Categoria-Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/Status-Em%20Dev-444?style=flat-square">
+  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-444?style=flat-square">
   <img src="https://img.shields.io/badge/Ano-2025-00d4ff?style=flat-square">
 </p>
-Painel de otimização **extremo** (PySide6) com servidor Flask, multi-idioma, login/registro, restore, telemetria reduzida.
+
+Painel de otimização **avançado**, construído em **Electron + Node-API** com módulos nativos em **C++**, capaz de operar em nível de sistema.  
+Inclui **proteções de segurança**, telemetria mínima, arquitetura modular, suporte multi-idioma, login/registro, perfil de restauração, logs auditáveis e engine de otimização inspirada no *Infinity Booster*.
+
 <br/>
 <b>Stack</b>:
-<img src="https://img.shields.io/badge/Python-qt%2FpySide6-0a192f?style=flat-square&logo=python&logoColor=10FFD0">
+<img src="https://img.shields.io/badge/Electron-Desktop-0a192f?style=flat-square&logo=electron&logoColor=10FFD0">
+<img src="https://img.shields.io/badge/C++-Native%20Modules-0a192f?style=flat-square&logo=c%2B%2B&logoColor=10FFD0">
+<img src="https://img.shields.io/badge/Node.js-Core-0a192f?style=flat-square&logo=node.js&logoColor=fff">
 <img src="https://img.shields.io/badge/Flask-API-0a192f?style=flat-square&logo=flask">
 <img src="https://img.shields.io/badge/MySQL-DB-0a192f?style=flat-square&logo=mysql&logoColor=fff">
-</td>
 
 <td width="33%">
 
