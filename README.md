@@ -24,7 +24,8 @@
   </p>
 
   <!-- STACK ICONS -->
-  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,flask,fastapi,pyqt,qt,cs,dotnet,nodejs,php,mysql,sqlite,prisma,redis,tensorflow,linux,docker,git,figma&perline=12" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,tailwind,flask,fastapi,qt,csharp,dotnet,nodejs,php,mysql,sqlite,prisma,redis,tensorflow,linux,docker,git,figma&perline=12" />
+
 
 </div>
 
