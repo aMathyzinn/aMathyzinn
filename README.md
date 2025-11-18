@@ -59,19 +59,23 @@ Painel de otimização **extremo** (PySide6) com servidor Flask, multi-idioma, l
 
 <td width="33%">
 
-### Yzhy FPS — Painel v1.2  
+### Site Oficial — aMathyzin.com.br
 <p>
-  <img src="https://img.shields.io/badge/Categoria-Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/Badge-TOP-f59e0b?style=flat-square">
-  <img src="https://img.shields.io/badge/Release-15%2F08%2F2025-00d4ff?style=flat-square">
+  <img src="https://img.shields.io/badge/Categoria-Web-12233d?style=flat-square&logo=next.js&logoColor=10FFD0">
+  <img src="https://img.shields.io/badge/Status-Online-16a34a?style=flat-square">
+  <img src="https://img.shields.io/badge/Ano-2025-00d4ff?style=flat-square">
+  <a href="https://amathyzin.com.br"><img src="https://img.shields.io/badge/Visitar-Site-3b82f6?style=flat-square&logo=googlechrome&logoColor=fff"></a>
 </p>
-UI/UX revisada, correções críticas e integração com **Yzhy CRUD**.
+
+Site oficial do **canal aMathyzin** — construído em **Next.js**, moderno, responsivo, seguro e otimizado.  
+Inclui **proteções anti-XSS**, sanitização, telemetria mínima e página de downloads oficial.
+
 <br/>
 <b>Stack</b>:
-<img src="https://img.shields.io/badge/Python-Flask-0a192f?style=flat-square&logo=python&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/PySide6-Qt-0a192f?style=flat-square">
-<img src="https://img.shields.io/badge/Windows-API-0a192f?style=flat-square&logo=windows&logoColor=fff">
-</td>
+<img src="https://img.shields.io/badge/Next.js-Web-0a192f?style=flat-square&logo=next.js&logoColor=fff">
+<img src="https://img.shields.io/badge/React-UI-0a192f?style=flat-square&logo=react&logoColor=10FFD0">
+<img src="https://img.shields.io/badge/Web%20Security-Advanced-0a192f?style=flat-square&logo=security&logoColor=10FFD0">
+<img src="https://img.shields.io/badge/API%20Ready-REST%2FServerless-0a192f?style=flat-square&logo=cloudflare&logoColor=fff">
 
 <td width="33%">
 
