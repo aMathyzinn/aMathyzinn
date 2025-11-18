@@ -43,7 +43,7 @@ UI/UX **sólido** + **engenharia full-stack** com foco em **produtos desktop (Qt
 <tr>
 <td width="33%">
 
-### Infinity Panel  
+### Infinity Booster  
 <p>
   <img src="https://img.shields.io/badge/Categoria-Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0">
   <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-444?style=flat-square">
@@ -51,7 +51,7 @@ UI/UX **sólido** + **engenharia full-stack** com foco em **produtos desktop (Qt
 </p>
 
 Painel de otimização **avançado**, construído em **Electron + Node-API** com módulos nativos em **C++**, capaz de operar em nível de sistema.  
-Inclui **proteções de segurança**, telemetria mínima, arquitetura modular, suporte multi-idioma, login/registro, perfil de restauração, logs auditáveis e engine de otimização inspirada no *Infinity Booster*.
+Inclui **proteções de segurança**, telemetria mínima, arquitetura modular, suporte multi-idioma, login/registro, perfil de restauração, logs auditáveis e engine de otimização inteligente em tempo real.
 
 <br/>
 <b>Stack</b>:
