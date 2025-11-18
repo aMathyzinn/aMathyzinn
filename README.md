@@ -167,10 +167,6 @@ E-commerce fictício focado em UX e componentização.
   <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=php&logoColor=10FFD0"> 
   <img src="https://img.shields.io/badge/Stack-HTML5%20%7C%20CSS3%20%7C%20JS%20%7C%20PHP%20%7C%20MySQL-0a192f?style=flat-square">
 
-- **RoBooster Classic** <sub>2023 — Descontinuado</sub>  
-  <img src="https://img.shields.io/badge/Status-Discontinued-b91c1c?style=flat-square"> 
-  <img src="https://img.shields.io/badge/Categoria-Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0">
-
 - **Sistema de Gestão** <sub>2024</sub>  
   <img src="https://img.shields.io/badge/Web-12233d?style=flat-square&logo=fastapi&logoColor=10FFD0">
 
