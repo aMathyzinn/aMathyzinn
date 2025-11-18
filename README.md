@@ -176,20 +176,15 @@ E-commerce fictício focado em UX e componentização.
 
 ---
 
-## 🧰 Tech Map (agrupado)
-**Core:**  
-<img src="https://img.shields.io/badge/Python-Primary-0a192f?style=flat-square&logo=python&logoColor=10FFD0"> 
-<img src="https://img.shields.io/badge/TypeScript-Strong-0a192f?style=flat-square&logo=typescript&logoColor=fff"> 
-<img src="https://img.shields.io/badge/React%2FNext-UI-0a192f?style=flat-square&logo=react&logoColor=10FFD0">  
-**Desktop:**  
-<img src="https://img.shields.io/badge/PySide6-Qt-0a192f?style=flat-square"> 
-<img src="https://img.shields.io/badge/PyQt6-UI-0a192f?style=flat-square"> 
-<img src="https://img.shields.io/badge/Windows-API-0a192f?style=flat-square&logo=windows&logoColor=fff">  
-**Back/Infra:**  
-<img src="https://img.shields.io/badge/Flask%20%7C%20FastAPI-APIs-0a192f?style=flat-square"> 
-<img src="https://img.shields.io/badge/MySQL%20%7C%20SQLite-DB-0a192f?style=flat-square&logo=mysql&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Prisma-ORM-0a192f?style=flat-square&logo=prisma&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Docker-Tooling-0a192f?style=flat-square&logo=docker&logoColor=fff">  
+🧰 Tech Map (agrupado)
+Core
+<img src="https://img.shields.io/badge/CSharp-Primary-0a192f?style=flat-square&logo=csharp&logoColor=10FFD0"> <img src="https://img.shields.io/badge/Python-Advanced-0a192f?style=flat-square&logo=python&logoColor=10FFD0"> <img src="https://img.shields.io/badge/Node.js-Automation%2FBots%2FAPIs-0a192f?style=flat-square&logo=node.js&logoColor=10FFD0"> <img src="https://img.shields.io/badge/React%20%7C%20Next.js-Web%20Dev-0a192f?style=flat-square&logo=react&logoColor=10FFD0"> <img src="https://img.shields.io/badge/Flutter%20%7C%20Dart-Mobile%20Apps-0a192f?style=flat-square&logo=flutter&logoColor=10FFD0">
+Desktop / Windows
+<img src="https://img.shields.io/badge/.NET%20Framework-Windows%20Apps-0a192f?style=flat-square&logo=dotnet&logoColor=10FFD0"> <img src="https://img.shields.io/badge/Windows%20API-Low%20Level-0a192f?style=flat-square&logo=windows&logoColor=fff">
+Back-End / Infra
+<img src="https://img.shields.io/badge/FastAPI%20%7C%20Flask-Python%20APIs-0a192f?style=flat-square&logo=fastapi&logoColor=fff"> <img src="https://img.shields.io/badge/MySQL%20%7C%20SQLite-Databases-0a192f?style=flat-square&logo=mysql&logoColor=fff"> <img src="https://img.shields.io/badge/Prisma-ORM-0a192f?style=flat-square&logo=prisma&logoColor=fff"> <img src="https://img.shields.io/badge/Docker-Tooling%2FDeploy-0a192f?style=flat-square&logo=docker&logoColor=fff">
+Security
+<img src="https://img.shields.io/badge/Web%20Security-Cybersec%20Focus-0a192f?style=flat-square&logo=lock&logoColor=10FFD0">
 
 ---
 
