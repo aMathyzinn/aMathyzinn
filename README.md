@@ -5,7 +5,7 @@
   <!-- HERO -->
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a192f,100:00d4ff&fontColor=10FFD0&text=aMathyzin&fontSize=66&animation=fadeIn&desc=UI%2FUX%20%7C%20Full-Stack%20%7C%20Desktop%20%2B%20Web%20%2B%20IA&descAlign=50&descAlignY=70" alt="Header"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3700&pause=900&color=10FFD0&center=true&vCenter=true&width=980&lines=Designer+UI%2FUX+%E2%80%A2+Full-Stack+%E2%80%A2+Automations%2FIA;Produtos+Desktop+(Qt%2FPySide)+e+Web+(Next.js%2FReact);Foco+em+performance%2C+anima%C3%A7%C3%B5es+e+experi%C3%AAncia" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3700&pause=900&color=10FFD0&center=true&vCenter=true&width=980&lines=Designer+UI%2FUX+%E2%80%A2+Full-Stack+%E2%80%A2+Automations%2FIA;Produtos+Desktop+(Qt%2F.NET)+e+Web+(Next.js%2FReact);Foco+em+performance%2C+anima%C3%A7%C3%B5es+e+experi%C3%AAncia" />
 
   <!-- CTAS -->
   <p>
