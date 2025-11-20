@@ -32,7 +32,7 @@
 ---
 
 ## 🌌 Sobre
-UI/UX **sólido** + **engenharia full-stack** com foco em **produtos desktop (Qt/PySide/Windows API)** e **web moderna (Next.js/React)**. Priorizo **animações fluídas**, **acessibilidade**, **telemetria mínima** e **performance real**.
+UI/UX **sólido** + **engenharia full-stack** com foco em **produtos desktop (Qt/.NET/Windows API)** e **web moderna (Next.js/React)**. Priorizo **animações fluídas**, **acessibilidade**, **telemetria mínima** e **performance real**.
 
 ---
 
