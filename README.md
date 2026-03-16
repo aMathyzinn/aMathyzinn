@@ -4,7 +4,14 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a192f,100:00d4ff&fontColor=10FFD0&text=aMathyzinn&fontSize=60&animation=fadeIn&desc=UI%2FUX%20%7C%20Full-Stack%20%7C%20Desktop%20%2B%20Web%20%2B%20IA&descAlign=50&descAlignY=70" alt="Header"/>
 
   <!-- PROFILE PIC -->
-  <img src="https://github.com/aMathyzinn.png" width="100" style="border-radius:50%;margin:8px 0" alt="aMathyzin"/>
+  <svg width="100" height="100" viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <clipPath id="circle">
+      <circle cx="50" cy="50" r="50"/>
+    </clipPath>
+  </defs>
+  <image href="https://github.com/aMathyzinn.png" width="100" height="100" clip-path="url(#circle)"/>
+</svg>
 
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=800&color=10FFD0&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer+%E2%80%A2+Full-Stack+Engineer;Desktop+(Qt%2F.NET%2FElectron)+%26+Web+(Next.js%2FReact);Performance+%2C+Anima%C3%A7%C3%B5es+suaves+%26+UX+premium" />
 
