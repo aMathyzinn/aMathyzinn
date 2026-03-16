@@ -1,198 +1,100 @@
-<!-- README.md — aMathyzin / Matheus Fernandes (refactor 2025-08) -->
-
 <div align="center">
 
   <!-- HERO -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0a192f,100:00d4ff&fontColor=10FFD0&text=aMathyzin&fontSize=66&animation=fadeIn&desc=UI%2FUX%20%7C%20Full-Stack%20%7C%20Desktop%20%2B%20Web%20%2B%20IA&descAlign=50&descAlignY=70" alt="Header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0a192f,100:00d4ff&fontColor=10FFD0&text=aMathyzinn&fontSize=60&animation=fadeIn&desc=UI%2FUX%20%7C%20Full-Stack%20%7C%20Desktop%20%2B%20Web%20%2B%20IA&descAlign=50&descAlignY=70" alt="Header"/>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3700&pause=900&color=10FFD0&center=true&vCenter=true&width=980&lines=Designer+UI%2FUX+%E2%80%A2+Full-Stack+%E2%80%A2+Automations%2FIA;Produtos+Desktop+(Qt%2F.NET)+e+Web+(Next.js%2FReact);Foco+em+performance%2C+anima%C3%A7%C3%B5es+e+experi%C3%AAncia" />
+  <!-- PROFILE PIC -->
+  <img src="https://github.com/aMathyzinn.png" width="100" style="border-radius:50%;margin:8px 0" alt="aMathyzin"/>
 
-  <!-- CTAS -->
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3500&pause=800&color=10FFD0&center=true&vCenter=true&width=900&lines=UI%2FUX+Designer+%E2%80%A2+Full-Stack+Engineer;Desktop+(Qt%2F.NET%2FElectron)+%26+Web+(Next.js%2FReact);Performance+%2C+Anima%C3%A7%C3%B5es+suaves+%26+UX+premium" />
+
+  <!-- CTAs -->
   <p>
-    <a href="mailto:contato@amathyzin.com.br"><img alt="E-mail" src="https://img.shields.io/badge/contato%40amathyzin.com.br-send-0b84ff?style=for-the-badge&logo=gmail&logoColor=fff"></a>
-    <a href="https://amathyzin.xyz"><img alt="Site / Portfólio" src="https://img.shields.io/badge/Portfolio-Online-00D4FF?style=for-the-badge&logo=vercel&logoColor=fff"></a>
-    <a href="https://discord.gg/XXquEjp69D"><img alt="Discord" src="https://img.shields.io/badge/Discord-Community-5865F2?style=for-the-badge&logo=discord&logoColor=fff"></a>
-    <a href="https://github.com/aMathyzinn"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-Follow-1f2328?style=for-the-badge&logo=github&logoColor=10FFD0"></a>
+    <a href="mailto:contato@amathyzin.com.br"><img alt="E-mail" src="https://img.shields.io/badge/contato%40amathyzin.com.br-📧-0b84ff?style=for-the-badge&logo=gmail&logoColor=fff"></a>
+    <a href="https://amathyzin.xyz"><img alt="Portfolio" src="https://img.shields.io/badge/Portfólio+Completo-Online-00D4FF?style=for-the-badge&logo=vercel&logoColor=fff"></a>
+    <a href="https://discord.gg/XXquEjp69D"><img alt="Discord" src="https://img.shields.io/badge/Community-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=fff"></a>
+    <a href="https://github.com/aMathyzinn"><img alt="GitHub" src="https://img.shields.io/badge/Follow-@aMathyzinn-1f2328?style=for-the-badge&logo=github&logoColor=10FFD0"></a>
   </p>
 
-  <!-- KPIs -->
+  <!-- KPIs rápidos -->
   <p>
     <img src="https://img.shields.io/badge/Projetos-50%2B-10FFD0?style=flat-square&labelColor=0a192f">
-    <img src="https://img.shields.io/badge/Inscritos-7.5k%2B-10FFD0?style=flat-square&labelColor=0a192f&logo=youtube">
-    <img src="https://img.shields.io/badge/Ferramentas-100%2B-10FFD0?style=flat-square&labelColor=0a192f">
-    <img src="https://komarev.com/ghpvc/?username=aMathyzin&label=Views&color=00d4ff&style=flat-square" />
+    <img src="https://img.shields.io/badge/YouTube-7.9k%2B-10FFD0?style=flat-square&labelColor=0a192f&logo=youtube">
+    <img src="https://komarev.com/ghpvc/?username=aMathyzin&label=Profile+Views&color=00d4ff&style=flat-square" />
   </p>
 
-  <!-- STACK ICONS -->
-<img src="https://skillicons.dev/icons?i=py,cs,nodejs,php,flutter,dart,java,cpp,ts,dotnet,react,electron,tauri,tailwind,flask,fastapi,qt,mysql,sqlite,tensorflow,linux,docker,git,nextjs&perline=12" />
-
+  <!-- STACK PRINCIPAL -->
+  <img src="https://skillicons.dev/icons?i=py,cs,nodejs,nextjs,react,electron,tauri,qt,tailwind,fastapi,supabase,cpp,rust,docker,git,linux&perline=8" />
 
 </div>
 
----
+<br/><br/>
 
-## 🌌 Sobre
-UI/UX **sólido** + **engenharia full-stack** com foco em **produtos desktop (Qt/.NET/Windows API)** e **web moderna (Next.js/React)**. Priorizo **animações fluídas**, **acessibilidade**, **telemetria mínima** e **performance real**.
-
----
-
-## 🔥 Destaques (curadoria)
-> Cada card traz **categoria**, **ano**, **status** e **stack** em badges consistentes.
-
-<table>
-<tr>
-<td width="33%">
-
-### Infinity Booster  
-<p>
-  <img src="https://img.shields.io/badge/Categoria-Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/Status-Em%20Desenvolvimento-444?style=flat-square">
-  <img src="https://img.shields.io/badge/Ano-2025-00d4ff?style=flat-square">
-</p>
-
-Painel de otimização **avançado**, construído em **Electron + Node-API** com módulos nativos em **C++**, capaz de operar em nível de sistema.  
-Inclui **proteções de segurança**, telemetria mínima, arquitetura modular, suporte multi-idioma, login/registro, perfil de restauração, logs auditáveis e engine de otimização inteligente em tempo real.
+## 🌌 Sobre mim
+UI/UX sólido + engenharia full-stack.  
+Foco em **produtos desktop** (Qt, .NET, Electron, Tauri, Windows API, C++) e **web moderna** (Next.js, React, sites 100% estáticos/client-side com Supabase quando preciso).  
+Priorizo performance real, animações fluidas (Framer Motion), acessibilidade e telemetria mínima.  
+Crio ferramentas de otimização, jogos inteligentes (IA client-side como Minimax), sites modernos e experiências premium.
 
 <br/>
-<b>Stack</b>:
-<img src="https://img.shields.io/badge/Electron-Desktop-0a192f?style=flat-square&logo=electron&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/C++-Native%20Modules-0a192f?style=flat-square&logo=c%2B%2B&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/Node.js-Core-0a192f?style=flat-square&logo=node.js&logoColor=fff">
-<img src="https://img.shields.io/badge/Flask-API-0a192f?style=flat-square&logo=flask">
-<img src="https://img.shields.io/badge/MySQL-DB-0a192f?style=flat-square&logo=mysql&logoColor=fff">
 
-<td width="33%">
+## 🔥 Destaques recentes
+Projetos selecionados — mais no [portfólio completo → amathyzin.xyz](https://amathyzin.xyz)
 
-### Site Oficial — aMathyzin.com.br
-<p>
-  <img src="https://img.shields.io/badge/Categoria-Web-12233d?style=flat-square&logo=next.js&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/Status-Online-16a34a?style=flat-square">
-  <img src="https://img.shields.io/badge/Ano-2025-00d4ff?style=flat-square">
-  <a href="https://amathyzin.com.br"><img src="https://img.shields.io/badge/Visitar-Site-3b82f6?style=flat-square&logo=googlechrome&logoColor=fff"></a>
-</p>
-
-Site oficial do **canal aMathyzin** — construído em **Next.js**, moderno, responsivo, seguro e otimizado.  
-Inclui **proteções anti-XSS**, sanitização, telemetria mínima e página de downloads oficial.
-
-<br/>
-<b>Stack</b>:
-<img src="https://img.shields.io/badge/Next.js-Web-0a192f?style=flat-square&logo=next.js&logoColor=fff">
-<img src="https://img.shields.io/badge/React-UI-0a192f?style=flat-square&logo=react&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/Web%20Security-Advanced-0a192f?style=flat-square&logo=security&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/API%20Ready-REST%2FServerless-0a192f?style=flat-square&logo=cloudflare&logoColor=fff">
-
-<td width="33%">
-
-### YZHY Painel V1  
-<p>
-  <img src="https://img.shields.io/badge/Categoria-Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/Kernel-Optimization-7c3aed?style=flat-square">
-  <img src="https://img.shields.io/badge/Ano-2025-00d4ff?style=flat-square">
-</p>
-Integração com Windows em **nível de kernel** + toolkit de otimização.
-<br/>
-<b>Stack</b>:
-<img src="https://img.shields.io/badge/Python-Flask-0a192f?style=flat-square">
-<img src="https://img.shields.io/badge/PySide6-Qt-0a192f?style=flat-square">
-</td>
-</tr>
-
-<tr>
-<td>
-
-### Mathy Intelligence  
-<p>
-  <img src="https://img.shields.io/badge/Categoria-IA-1e3a5f?style=flat-square&logo=react&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/Ano-2024-00d4ff?style=flat-square">
-  <a href="https://mathy-inteligence.xyz"><img src="https://img.shields.io/badge/Live-Open-16a34a?style=flat-square&logo=vercel&logoColor=fff"></a>
-</p>
-Plataforma de IA completa (front+back) com orquestração e UI dinâmica.
-<br/>
-<b>Stack</b>:
-<img src="https://img.shields.io/badge/React-UI-0a192f?style=flat-square&logo=react&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/FastAPI-API-0a192f?style=flat-square&logo=fastapi&logoColor=fff">
-<img src="https://img.shields.io/badge/MySQL-Data-0a192f?style=flat-square&logo=mysql&logoColor=fff">
-</td>
-
-<td>
-
-### RoBooster 2  
-<p>
-  <img src="https://img.shields.io/badge/Categoria-Desktop-1f2a44?style=flat-square&logo=windows&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/Ano-2024-00d4ff?style=flat-square">
-  <a href="https://amathyzin.com.br/downloads/robooster2/"><img src="https://img.shields.io/badge/P%C3%A1gina-Ver-3b82f6?style=flat-square&logo=googlechrome&logoColor=fff"></a>
-</p>
-Otimizador com UI futurista + algoritmos de limpeza.
-<br/>
-<b>Stack</b>:
-<img src="https://img.shields.io/badge/Python-PyQt6-0a192f?style=flat-square&logo=qt&logoColor=fff">
-<img src="https://img.shields.io/badge/Windows-API-0a192f?style=flat-square">
-</td>
-
-<td>
-
-### Loja Luxmoda  
-<p>
-  <img src="https://img.shields.io/badge/Categoria-Web-12233d?style=flat-square&logo=next.js&logoColor=10FFD0">
-  <img src="https://img.shields.io/badge/Ano-2024-00d4ff?style=flat-square">
-</p>
-E-commerce fictício focado em UX e componentização.
-<br/>
-<b>Stack</b>:
-<img src="https://img.shields.io/badge/Next.js-SSR-0a192f?style=flat-square&logo=next.js&logoColor=fff">
-<img src="https://img.shields.io/badge/TypeScript-Types-0a192f?style=flat-square&logo=typescript&logoColor=fff">
-<img src="https://img.shields.io/badge/Prisma-ORM-0a192f?style=flat-square&logo=prisma&logoColor=fff">
-</td>
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+<tr valign="top">
+  <td width="33%" style="vertical-align: top;">
+    <p><strong>aMathyzin Chess</strong></p>
+    <p><img src="https://img.shields.io/badge/Web%2FJogo-2025%2F2026-Online-16a34a?style=flat-square"></p>
+    <p><a href="https://amathy-chess.vercel.app/">♟️ Jogar →</a></p>
+    <p>Xadrez online 100% estático (sem backend): contra bot IA (Minimax com níveis), P2P com amigos ou local 2 jogadores.</p>
+    <p><strong>Stack</strong>: React • Next.js (static) • JS (Minimax AI) • P2P</p>
+  </td>
+  <td width="33%" style="vertical-align: top;">
+    <p><strong>VarejoCode Website</strong></p>
+    <p><img src="https://img.shields.io/badge/Web-2025%2F2026-Online-16a34a?style=flat-square"></p>
+    <p><a href="https://varejocode.com.br">🌐 Visitar →</a></p>
+    <p>Site oficial: desenvolvimento sob demanda via Discord, mensalidade fixa, sem contratos abusivos, visual moderno e clean.</p>
+    <p><strong>Stack</strong>: Next.js • React • Framer Motion • Tailwind</p>
+  </td>
+  <td width="33%" style="vertical-align: top;">
+    <p><strong>Site Oficial aMathyzin (Canal YouTube)</strong></p>
+    <p><img src="https://img.shields.io/badge/Web-2025-Online-16a34a?style=flat-square"></p>
+    <p><a href="https://amathyzin.com.br">🌐 Visitar →</a></p>
+    <p>Site do canal YouTube aMathyzin: otimizações Windows, FPS boost (Roblox/Valorant), downloads de ferramentas gratuitas e tutoriais.</p>
+    <p><strong>Stack</strong>: Next.js • React • Tailwind • Otimização</p>
+  </td>
 </tr>
 </table>
 
----
+<br/><br/>
 
-## 🧰 Tech Map (agrupado)
+## 🧰 Tech que mais uso
+- **Principal**: C# • Python • C++ • Node.js • Next.js/React • Rust  
+- **Desktop**: .NET • Electron/Tauri • Qt/PySide • Windows API  
+- **Backend/Infra (quando necessário)**: FastAPI/Flask • Supabase • MySQL/SQLite • Docker  
+- **Foco extra**: Performance, Animações (Framer Motion), IA client-side (Minimax), Segurança Web, Sites estáticos/P2P
 
-### **Core**
-<img src="https://img.shields.io/badge/CSharp-Primary-0a192f?style=flat-square&logo=csharp&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/Python-Advanced-0a192f?style=flat-square&logo=python&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/Node.js-Automation%2FBots%2FAPIs-0a192f?style=flat-square&logo=node.js&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/React%20%7C%20Next.js-Web%20Dev-0a192f?style=flat-square&logo=react&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/Flutter%20%7C%20Dart-Mobile%20Apps-0a192f?style=flat-square&logo=flutter&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/C++-Advanced-0a192f?style=flat-square&logo=c%2B%2B&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/Rust-Advanced-0a192f?style=flat-square&logo=rust&logoColor=10FFD0">
+<br/>
 
+## 📊 GitHub Activity
 
----
-
-### **Desktop / Windows**
-<img src="https://img.shields.io/badge/.NET%20Framework-Windows%20Apps-0a192f?style=flat-square&logo=dotnet&logoColor=10FFD0">
-<img src="https://img.shields.io/badge/Windows%20API-Low%20Level-0a192f?style=flat-square&logo=windows&logoColor=fff">
-
----
-
-### **Back-End / Infra**
-<img src="https://img.shields.io/badge/FastAPI%20%7C%20Flask-Python%20APIs-0a192f?style=flat-square&logo=fastapi&logoColor=fff">
-<img src="https://img.shields.io/badge/MySQL%20%7C%20SQLite-Databases-0a192f?style=flat-square&logo=mysql&logoColor=fff">
-<img src="https://img.shields.io/badge/Prisma-ORM-0a192f?style=flat-square&logo=prisma&logoColor=fff">
-<img src="https://img.shields.io/badge/Docker-Tooling%2FDeploy-0a192f?style=flat-square&logo=docker&logoColor=fff">
-
----
-
-### **Security**
-<img src="https://img.shields.io/badge/Web%20Security-Cybersec%20Focus-0a192f?style=flat-square&logo=lock&logoColor=10FFD0">
-
----
-
-## 📊 GitHub
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aMathyzin&show_icons=true&theme=transparent&border_color=00D4FF&title_color=10FFD0&text_color=E6EBFF" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aMathyzin&theme=dark&border=00D4FF&stroke=10FFD0&fire=FF4B1F" />
-  <img height="165" src="https://github-profile-trophy.vercel.app/?username=aMathyzin&theme=onestar&row=1&column=5&margin-w=8&margin-h=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=aMathyzin&show_icons=true&theme=transparent&border_color=00D4FF&title_color=10FFD0&text_color=E6EBFF" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aMathyzin&theme=dark&border=00D4FF&stroke=10FFD0&fire=FF4B1F" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aMathyzin&theme=onestar&row=1&column=5&margin-w=8&margin-h=8" />
+</p>
 
-## 🤝 Contato
-**contato@amathyzin.com.br** · **Discord:** @amathyzin.
+<br/>
+
+## 🤝 Vamos conversar?
+**contato@amathyzin.com.br**  
+Discord: @amathyzin  
+YouTube: aMathyzin
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=110&color=0:00d4ff,100:0a192f&reversal=true&text=%F0%9F%9A%80%20Code%20%E2%80%A2%20Design%20%E2%80%A2%20Impacto%20%F0%9F%92%AB&fontColor=10FFD0&fontSize=22" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=90&color=0:00d4ff,100:0a192f&reversal=true&text=%F0%9F%9A%80%20Code%20%E2%80%A2%20Design%20%E2%80%A2%20Impacto&fontColor=10FFD0&fontSize=20" />
 </div>
