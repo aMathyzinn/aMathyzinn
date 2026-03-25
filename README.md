@@ -14,7 +14,7 @@
   <!-- Quick KPIs -->
   <p>
     <img src="https://img.shields.io/badge/Projects-50%2B-10FFD0?style=flat-square&labelColor=0a192f">
-    <img src="https://img.shields.io/badge/YouTube-7.9k%2B-10FFD0?style=flat-square&labelColor=0a192f&logo=youtube">
+    <img src="https://img.shields.io/badge/YouTube-8k%2B-10FFD0?style=flat-square&labelColor=0a192f&logo=youtube">
     <img src="https://komarev.com/ghpvc/?username=aMathyzin&label=Profile+Views&color=00d4ff&style=flat-square" />
   </p>
 
